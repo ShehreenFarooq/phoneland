@@ -1,0 +1,43 @@
+.nav{
+  padding: 10px 20px;
+  padding-top: 15px;
+}
+.padding{
+  padding: 0 2px;
+}
+.textt{
+  margin: 30px 0;
+}
+.repairform {
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.rep1{
+  margin: 10px 0;
+}
+.lala {
+  padding: 18px;
+  gap: 8px;
+}
+.button{
+  margin: 10px 0;
+}
+.lala label:first-child {
+  margin-top: 0;
+}
+
+.tt {
+  margin-bottom: 4px;
+   margin-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.tt3{
+  margin: 10px 20px;
+
+}
+.btn{
+  margin: 15px;
+}

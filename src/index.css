@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+@theme {
+  --font-display: "Space Grotesk", sans-serif;
+  --font-sans: "Inter", sans-serif;
+}
