@@ -1,12 +1,8 @@
 PHONELAND
 
 A full-stack web app for a phone repair and device shop, built with the MERN stack. Customers can browse devices, request repairs, and get in touch — the shop owner manages everything from a simple admin dashboard.
-
+Technologies used:Tailwind,react,nodejs,express,mongodb
 Live demo: [add your deployed frontend link here] Backend API: [add your Render backend link here]
-
-Show Image (add a screenshot of your homepage here — drag the image into the repo and update this path)
-
-About the project
 
 Phoneland started as a typical e-commerce build — products, cart, checkout — but the scope changed as the project evolved. Most local phone repair shops don't actually run in-app checkouts; customers call, describe the problem, and get a quote over the phone. So instead of a generic cart flow, Phoneland is built around that real workflow:
 
