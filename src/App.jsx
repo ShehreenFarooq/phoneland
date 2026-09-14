@@ -6,7 +6,7 @@ import Cards from './components/Cards'
 import Repair from './components/Repair'
 import RepairForm from './components/RepairForm'
 import ContactForm from './components/ContactForm'
-import AdminLogin from './components/adminlogin'
+import AdminLogin from './components/AdminLogin'
 import AdminDashboard from './components/AdminDashboard'
 import Devices from './components/Devices'
 function App() {
